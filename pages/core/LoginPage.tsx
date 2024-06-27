@@ -10,7 +10,7 @@ export function LoginPage({navigation}) {
             <Text>
                 Login Page
             </Text>
-            <Button title='Login'
+            <ButtozxcbJZXcjn title='Login'
                     onPress={() =>navigation.navigate('Home')}/>
         </View>
     )
